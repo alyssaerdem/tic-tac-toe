@@ -1,5 +1,7 @@
 # Tic-tac-toe 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and written using Typescript and CSS.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and written using Typescript and CSS.  
+  
+Link to the app: https://classic-tic-tac-toe-app.herokuapp.com/
 
 ## Description
 Tic-tac-toe is a game that is played on a 3x3 grid of tiles between two players, one of which will have the mark **X** and the other **O**. 
